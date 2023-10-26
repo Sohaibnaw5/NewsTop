@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom';
 
+
 export default class Navbar extends Component {
   constructor() {
     super();
@@ -45,7 +46,7 @@ export default class Navbar extends Component {
           <li className="nav-item"><Link className="nav-link"to="/technology">Technology</Link></li>
         </ul>
   
-        <img src={this.state.isDarkTheme ? 'sun.png' : 'moon.png'} onClick={this.toggleDarkMode} id='icon' alt="Toggle Dark Mode" />
+        <img src={this.state.isDarkTheme ? require('./images/sun.png') : require('./images/moon.png')} onClick={this.toggleDarkMode} id='icon' alt="Toggle Dark Mode" />
         
         </div>
   </div>

@@ -59,6 +59,15 @@ a.card-text{
   cursor: pointer;
 }
 
+#main{
+  height: 40vmin;
+  pointer-events: none;
+  align-items: center;
+  display: block;
+  margin: 0 auto;
+  width: 40%;
+}
+
 @media (prefers-color-scheme: dark) {
   .theme-a.adaptive {
     background: #753;
