@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sohbu.github.io/NewsTop/static/css/main.b77f77f6.css",
+    "main.js": "/sohbu.github.io/NewsTop/static/js/main.71ed558a.js",
+    "static/js/787.2c9891c5.chunk.js": "/sohbu.github.io/NewsTop/static/js/787.2c9891c5.chunk.js",
+    "index.html": "/sohbu.github.io/NewsTop/index.html",
+    "main.b77f77f6.css.map": "/sohbu.github.io/NewsTop/static/css/main.b77f77f6.css.map",
+    "main.71ed558a.js.map": "/sohbu.github.io/NewsTop/static/js/main.71ed558a.js.map",
+    "787.2c9891c5.chunk.js.map": "/sohbu.github.io/NewsTop/static/js/787.2c9891c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b77f77f6.css",
+    "static/js/main.71ed558a.js"
+  ]
+}
